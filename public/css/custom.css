@@ -1,0 +1,16 @@
+.top-border-custom {
+	 visibility: visible; 
+	 animation-name: fadeInDown;
+}
+.right-border-custom {
+	visibility: visible;
+	 animation-name: fadeInRight;
+}
+.bottom-border-custom {
+	 visibility: visible;
+	 animation-name: fadeInUp;
+}
+.left-border-custom {
+	visibility: visible; 
+	animation-name: fadeInLeft;
+}
