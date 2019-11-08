@@ -1,6 +1,6 @@
 This project is HTML template in react app.
 
-I take this free template from https://onepagelove.com/furnish.
+I take this free template from https://onepagelove.com/namari.
 you can download free HTML from that link.
 
 if you wanna run this project, follow this step :
